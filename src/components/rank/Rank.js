@@ -1,9 +1,9 @@
 // Pure Function
-const Rank = () => {
+const Rank = ({ name, entries }) => {
 	return (
 		<div>
-			<div className='white f3'>{'Hayley, your current rank is...'}</div>
-			<div className='white f1'>{'#4'}</div>
+			<div className='white f3'>{`${name}, your current entry count is...`}</div>
+			<div className='white f1'>{entries}</div>
 		</div>
 	);
 };
