@@ -1,16 +1,13 @@
 # Smart Brain Project
 
 ## Table of Contents
-
-- [Smart Brain Project](#smart-brain-project)
-  - [Table of Contents](#table-of-contents)
-  - [Overview](#overview)
-    - [Website Link](#website-link)
-  - [Installation](#installation)
-    - [Install Dependencies](#install-dependencies)
-  - [Technologies Used](#technologies-used)
-  - [Screenshots](#screenshots)
-  - [Future Work / Things to Fix](#future-work--things-to-fix)
+- [Overview](#overview)
+  - [Website Link](#website-link)
+- [Installation](#installation)
+  - [Install Dependencies](#install-dependencies)
+- [Technologies Used](#technologies-used)
+- [Screenshots](#screenshots)
+- [Future Work / Things to Fix](#future-work--things-to-fix)
 
 ## Overview
 
@@ -19,8 +16,8 @@ image for a single face to be detected.
 
 ### Website Link
 
-[Smart Brain Project](https://haylz-smart-brain.herokuapp.com/)
-[Backend of Project](https://github.com/HaylzRandom/smart-brain-api)
+- [Smart Brain Project](https://haylz-smart-brain.herokuapp.com/)
+- [Backend of Project](https://github.com/HaylzRandom/smart-brain-api)
 
 ## Installation
 
